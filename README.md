@@ -21,7 +21,7 @@ ML library: XGBoost
 
 
 **Result**
-![](./screenshots/train_test_split.png)
+![](./screenshots/result.png)
 
 
 
